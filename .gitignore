@@ -1,0 +1,9 @@
+# data and generated files (not for GitHub)
+cifar.tar.gz
+cifar-100-python/
+train/
+test/
+captured_data/
+*.lst
+file.png
+.ipynb_checkpoints/
